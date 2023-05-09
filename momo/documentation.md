@@ -1,0 +1,5 @@
+# Difference between disbursement and  collection
+
+From the above context and sources, a disbursement is a feature of the MTN MoMo API that allows you to deposit funds to multiple mobile money users in one transaction. This feature is used when you want to transfer money from your account to multiple payee accounts at once. The momoapi-node library provides a Disbursements client that you can use to make disbursements using the MTN MoMo API.
+
+On the other hand, a collection is a feature of the MTN MoMo API that allows you to request payments from mobile money users. This feature is used when you want to receive money from a payer. The payer is asked to authorize the payment, and the transaction is executed once the payer has authorized the payment. The momoapi-node library provides a Collections client that you can use to request payments using the MTN MoMo API.

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nyabongoedgar/finance-app/issues"
   },
-  "homepage": "https://github.com/nyabongoedgar/finance-app#readme"
+  "homepage": "https://github.com/nyabongoedgar/finance-app#readme",
+  "dependencies": {
+    "mtn-momo": "^2.0.0"
+  }
 }
